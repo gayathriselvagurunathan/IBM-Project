@@ -9,6 +9,10 @@ Quiz generation for personalized learning
 Lightweight deployment using Google Colab
 Uses IBM Granite model from Hugging Face
 Interactive Gradio UI
+
+🎥 Demo Video
+  https://drive.google.com/file/d/19qseOVnY9RwXZprhQmO-vIAsfY2XSjCe/view?usp=drivesdk
+  
 🛠️ Tech Stack
 Python 3
 Transformers & Torch
